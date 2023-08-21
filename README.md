@@ -6,4 +6,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhh9799)](https://solved.ac/lhh9799/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhh9799&langs_count=10&layout=compact&theme)](https://github.com/lhh9799/lhh9799)
+
 </div>
