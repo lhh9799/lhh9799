@@ -56,6 +56,38 @@
 
 <br>
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Introduction</th>
+    <th>Languages, etc.</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lhh9799/chuka">chuka</a></td>
+    <td> 선물 펀딩 및 롤링 페이퍼 작성 웹사이트 (2024) </td>
+    <td>Java, Spring Boot, Spring Data JPA, Redis, MySQL, MongoDB OpenFeign, Amazon S3, Prometheus, Grafana, Jenkins, Docker </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lhh9799/Yeojung">여정</a></td>
+    <td> CLOVA OCR을 이용해 쉽고 빠른 정산을 지원하는 안드로이드 앱 프로젝트 (2024) </td>
+    <td>Java, Spring Boot, Spring Data JPA, Redis, MySQL RestClient, Amazon S3, CLOVA OCR, Spring Security, JWT </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lhh9799/Mela">Mela</a></td>
+    <td> 음악 작업을 위한 구인, 공동 작업 웹사이트 (2024) </td>
+    <td>Java, Spring Boot, Spring Data JPA, MySQL, JPQL, QueryDSL, Redis, Amazon S3</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lhh9799/SSAFY10_Gwangju5_Penetrate_FINAL_PROJECT_12Team_HyunhoLee_JaehyeonHan">Roulette Trip</a></td>
+    <td> Vue.js와 Spring Boot, MyBatis를 이용해 여행지 추천 및 게시판 서비스를 제공하는 웹사이트 (2023) </td>
+    <td>Vue.js, JavaScript, Java, Spring Boot, MyBatis, Pinia</td>
+  </tr>
+</table>
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhh9799&show_icons=true&theme=vue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhh9799)](https://solved.ac/lhh9799/)
 
