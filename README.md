@@ -81,7 +81,7 @@
     <td>Java, Spring Boot, Spring Data JPA, Redis, MySQL, MongoDB OpenFeign, Amazon S3, Prometheus, Grafana, Jenkins, Docker </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lhh9799/Yeojung">여정</a></td>
+    <td><a href="https://github.com/lhh9799/yeojung">여정</a></td>
     <td> CLOVA OCR을 이용해 쉽고 빠른 정산을 지원하는 안드로이드 앱 프로젝트 (2024) </td>
     <td>Java, Spring Boot, Spring Data JPA, Redis, MySQL RestClient, Amazon S3, CLOVA OCR, Spring Security, JWT </td>
   </tr>
