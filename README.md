@@ -6,14 +6,17 @@
 
 ## 🔎 Experience
 
-💻 SSAFY (Samsung Software Academy For Youth) 10th (2023.07. ~ Now)<br>
 🎓 Department of Software Engeering, Chonnam National University (2021.03. ~ 2023.08.)<br>
 💼 KEPCO Research Institute (한국전력공사 전력연구원) 현장실습 (2022.03.07. ~ 2022.08.21.)<br>
+💻 SSAFY (Samsung Software Academy For Youth) 10th (2023.07.05. ~ 2023.06.21.)<br>
+💼 KEPCO Knowledge, Data & Network Co., Ltd. (한전KDN) 직원 (2024.06.24. ~ Now)<br>
 
 ## 📜 Certificates
 
 🧾 Engineer Information Processing (정보처리기사) (2022.06.17.)<br>
+🧾 TOPCIT 459 (2023.05.20.)<br>
 🧾 OPIc IH (2024.03.07.)<br>
+🧾 SQLD (2024.06.21.)<br>
 
 <div align=center><h1>🛠 SKILL 🛠</h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
