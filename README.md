@@ -14,9 +14,18 @@
 ## 📜 Certificates
 
 🧾 Engineer Information Processing (정보처리기사) (2022.06.17.)<br>
-🧾 TOPCIT 459 (2023.05.20.)<br>
 🧾 OPIc IH (2024.03.07.)<br>
 🧾 SQLD (2024.06.21.)<br>
+🧾 TOPCIT 642 (2025.05.24.)<br>
+🧾 TOEIC 950 (2025.05.31.)<br>
+🧾 Linux Master Level 2 (2025.07.10.)<br>
+🧾 ADsP (2025.09.05.)<br>
+
+## 🃏 Trap Card (Certification possibly valid only in Republic of Korea)
+
+🤺 Kumdo 1st Dan (2014.12.01.)<br>
+🏄‍♂️ Windsurfing Instructor Level 3 (2021.10.12.)<br>
+👷‍♂️ Craftsman Fork Lift Truck Operator (2025.08.28.)<br>
 
 <div align=center><h1>🛠 SKILL 🛠</h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
